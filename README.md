@@ -48,24 +48,31 @@ Backend (Serveur & Logique)
 Framework : Symfony
 
 Langage : PHP (71%)
-.
+
+
 Base de données : MySQL / MariaDB (gérée via Doctrine Migrations)
-.
+
 Gestionnaire de dépendances : Composer
-.
+
 Tests : PHPUnit
-.
+
+
 Frontend (Interface)
 Moteur de template : Twig (
-.
+
+
 Langages : JavaScript &  CSS 
-.
+
+
 Asset Management : Symfony Importmap
-.
+
+
 Qualité & DevOps
 Analyse Statique : SonarQube / SonarCloud
-.
+
+
 Automation : GitHub Actions
-.
+
+
 Internationalisation : Symfony Translation
-.
+
